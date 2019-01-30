@@ -1,0 +1,3 @@
+标题：my first email
+正文：这是我用自己编写的程序发送的第一封信txt格式
+html格式
